@@ -7,7 +7,7 @@
 */
 
 function evenNumbersSum(n) {
-    // TODO
+  // TODO
 }
 
 console.log(evenNumbersSum(3)); // should output 6
